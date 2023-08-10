@@ -1,0 +1,31 @@
+body{
+    font-family:Georgia, 'Times New Roman', Times, serif;
+    background-color: bisque;
+}
+h1{
+    text-align: center;
+    color: rgb(12, 107, 190);
+}
+h2{
+    color: rgb(187, 50, 50);
+}
+h3{
+    color: rgb(84, 80, 148);
+}
+h4{
+    color: rgb(113, 186, 61);
+}
+h5{
+    margin-right: 550px;
+    padding: 5px;
+    background-color: rgb(200, 234, 46);
+    color: rgb(40, 105, 61);
+    border: 2px solid green;
+}
+h6{
+    margin-bottom: -15px;
+    color: rgb(228, 17, 17);
+}
+p{
+    color: rgb(148, 35, 35);
+}
